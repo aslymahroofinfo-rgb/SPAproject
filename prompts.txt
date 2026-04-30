@@ -1,0 +1,15 @@
+The aim 01: Understand mandatory rubric requirements in the assignment PDF.
+Actual prompt: Extract all mandatory and bonus requirements from the mini project PDF and turn them into a practical implementation checklist.
+
+The aim 02: Build a full strict-typed Vue SPA architecture.
+Actual prompt: Generate a complete Vue 3 + TypeScript + Vite + Tailwind project structure with reusable components and no any types.
+
+The aim 03: Implement robust data interactions.
+Actual prompt: Add typed API service functions, search/filter/sort logic, detail view routing, and loading/error handling for DummyJSON data.
+
+The aim 04: Add distinction-level features.
+Actual prompt: Implement auth simulation with token persistence, Pinia cart persistence, dynamic routes, and dark mode.
+
+The aim 05: Redesign the complete UI and branding.
+Actual prompt: Replace the previous look completely with a different visual identity, theme palette, typography, and component styling while preserving all features.
+
